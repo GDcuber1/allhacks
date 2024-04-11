@@ -5,7 +5,7 @@ THIS IS A VIOLATION OF THE TERMS AND SERVICE. USING MAY RESULT IN ACCOUNT SUSPEN
 * You may not under any circumstance republish any code from this file as your own.
 * 
 * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/GDcuber1/main/ReadBeforeUse.md
+* https://github.com/GDcuber1/allhacks/blob/main/ReadBeforeUse.md
 
 
 step 1. copy the code.
