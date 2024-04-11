@@ -14,3 +14,4 @@ Step 3. open inspect. (i.e ctr+shift+i or right click - inspect)
 Step 4. in the top, go to consle.
 Step 5. paste the code. (on blooket, you may need to type "allow pasting" or depending on what languidge your broweser uses.)
 Step 6. Press enter.
+Step 7. MAKE SURE TO USE ALT ACCOUNT.
