@@ -1,4 +1,10 @@
+
+
 THIS IS A VIOLATION OF THE TERMS AND SERVICE. USING MAY RESULT IN ACCOUNT SUSPENTION OR TERMINATION. USE AT YOUR OWN RISK
+
+THIS IS NOT A VIRUS. COPYRIGHT. DO NOT REPORODUCE UNDER ANY MEANS. USERNAMES SUCH AS playstation254 AND OTHERS ARE ALTERNET USERNAMES. COPYRIGHTED AS WELL.
+
+
 
  You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
